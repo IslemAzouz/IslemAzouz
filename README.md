@@ -1,4 +1,4 @@
-<img align="center" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="gif" height=500px width=1000px><br /><br />
+<img align="center" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="gif" height=250px width=1000px><br /><br />
 <br>
 <h1 align="center">Hi there, I'm Islem Azouz </h1>
 <h3 align="center"> Full-Stack web/mobile developer based in Tunisia<h3>
