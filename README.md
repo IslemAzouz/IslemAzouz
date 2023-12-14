@@ -1,8 +1,8 @@
-<div>
-<h1 align="center"><b>Hi 👋, I'm Islem Azouz</b></h1>
-<br>
-<h3 align="center"><b>Highly motivated and skilled  developer with practical experience in website and mobile development</b></h3>
-</div>
+<img align="center" src="https://media.licdn.com/dms/image/D4E16AQEq-LEBPkY6Yg/profile-displaybackgroundimage-shrink_350_1400/0/1686821924306?e=1707955200&v=beta&t=ZQv4EmvnvWfn5qxs9ZeZtLZSAcNcE5uh_DSR4VknlQI" alt="islem"><br /><br />
+
+<h1 align="center">Hi there, I'm Islem Azouz </h1>
+<h3 align="center"> Full-Stack web/mobile developer based in Tunisia<h3>
+
 
 # 💫 About Me:
 <div style="margin-top: 50px;">
