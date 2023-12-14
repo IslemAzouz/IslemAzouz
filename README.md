@@ -3,8 +3,8 @@
 <h3 align="center"><b>Highly motivated and skilled  developer with practical experience in website and mobile development</b></h3>
 
 # 💫 About Me:
-<div style="margin-top: 20px;">
-    <p align="center">
+<div style="margin-top: 50px;">
+    <p >
         🔭 I’m currently working as a JavaScript Instructor/Developer<br>
         🌱 I’m currently learning Python<br>
         👯 I’m looking to collaborate on any app project<br>
