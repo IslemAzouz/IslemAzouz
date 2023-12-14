@@ -1,6 +1,8 @@
+<div>
 <h1 align="center"><b>Hi 👋, I'm Islem Azouz</b></h1>
 <br>
 <h3 align="center"><b>Highly motivated and skilled  developer with practical experience in website and mobile development</b></h3>
+</div>
 
 # 💫 About Me:
 <div style="margin-top: 50px;">
